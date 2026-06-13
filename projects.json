@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T09:12:34.606588+00:00",
+    "generated_at": "2026-06-13T09:31:15.696209+00:00",
     "username": "abinavvinoj06",
-    "total_repos": 1,
-    "shown_repos": 1
+    "total_repos": 2,
+    "shown_repos": 2
   },
   "projects": [
     {
@@ -27,8 +27,30 @@
       "is_fork": false,
       "archived": false,
       "created_at": "2026-06-13T08:52:06Z",
-      "updated_at": "2026-06-13T09:11:14Z",
-      "pushed_at": "2026-06-13T09:11:10Z"
+      "updated_at": "2026-06-13T09:21:21Z",
+      "pushed_at": "2026-06-13T09:21:17Z"
+    },
+    {
+      "id": 1265896324,
+      "name": "python-script",
+      "full_name": "abinavvinoj06/python-script",
+      "description": "",
+      "url": "https://github.com/abinavvinoj06/python-script",
+      "homepage": "",
+      "topics": [],
+      "language": "Python",
+      "languages": [
+        "Python"
+      ],
+      "category": "Python",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "is_fork": false,
+      "archived": false,
+      "created_at": "2026-06-11T07:00:21Z",
+      "updated_at": "2026-06-13T09:29:03Z",
+      "pushed_at": "2026-06-13T09:10:57Z"
     }
   ]
 }
