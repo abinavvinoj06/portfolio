@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "generated_at": "2026-06-13T09:11:08.919777+00:00",
+    "username": "abinavvinoj06",
+    "total_repos": 1,
+    "shown_repos": 1
+  },
+  "projects": [
+    {
+      "id": 1268200009,
+      "name": "portfolio",
+      "full_name": "abinavvinoj06/portfolio",
+      "description": "",
+      "url": "https://github.com/abinavvinoj06/portfolio",
+      "homepage": "",
+      "topics": [],
+      "language": "HTML",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Other",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "is_fork": false,
+      "archived": false,
+      "created_at": "2026-06-13T08:52:06Z",
+      "updated_at": "2026-06-13T08:53:09Z",
+      "pushed_at": "2026-06-13T08:53:05Z"
+    }
+  ]
+}
